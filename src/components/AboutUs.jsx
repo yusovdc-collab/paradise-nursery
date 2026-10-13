@@ -1,4 +1,4 @@
-Our goal is to help everyone enjoy indoor gardening.
+ Our goal is to help everyone enjoy indoor gardening.
       </p>
 
       <h2>Our Mission</h2>
